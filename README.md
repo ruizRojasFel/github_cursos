@@ -4,6 +4,8 @@
 
 *Cursos en áreas de informática e informática aplicada a diversas disciplinas*
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ruizRojasFel/github_cursos?tab=MIT-1-ov-file)
+
 </div>
 
 
